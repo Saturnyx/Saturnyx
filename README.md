@@ -5,9 +5,9 @@ _Har-shell (He/Him)_
 ## Programming Languages I know
 - Python
 - C++
+- Java
 - HTML/CSS (I know it doesn't count as a language)
 ### Still Learning:
-- Java
 - Javascript
 
 🤔 _(Should I learn Rust?)_
@@ -19,7 +19,7 @@ _Har-shell (He/Him)_
 
 ### A few notable projects:
 - [Studium](https://studium.hackclub.app)
-- [Choco](https://modrinth.com/mod/choco-by-saturnyx) (Work in progess)
+- [KeyItems](https://modrinth.com/mod/keyitems)
 
 ## Contacting me
 If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
