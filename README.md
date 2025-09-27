@@ -30,6 +30,11 @@ _Har-shell (He/Him)_
 - [Curator](https://github.com/Saturnyx/curator)
 - [KeyItems](https://modrinth.com/mod/keyitems)
 
+## Stats
+![saturnyx's Stats](https://github-readme-stats.vercel.app/api?username=saturnyx&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![saturnyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true)
+![saturnyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnyx&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
 ## Contacting me
 If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
 <!---
