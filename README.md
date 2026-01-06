@@ -23,7 +23,7 @@ _Har-shell (He/Him)_
 
 ## Passion
 
-- Vex Robotics
+- Vex Robotics (Team 8059Z as of 2026)
 - Creating random stuff (Websites, Programmes, etc.)
 
 ### A few notable projects:
