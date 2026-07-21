@@ -14,7 +14,6 @@
 ![](https://img.shields.io/badge/C%2B%2B-004488?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fcplusplus.com%2F)
 ![](https://img.shields.io/badge/HTML%2FCSS-052d56?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.spec.whatwg.org%2F)
 ![](https://img.shields.io/badge/Rust-a72145?style=for-the-badge&logo=rust&link=https%3A%2F%2Fwww.rust-lang.org%2F)
-![](https://img.shields.io/badge/Java-04536f?style=for-the-badge&logo=oracle&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 
 <img src="assets/langs_old.gif" alt="Languages used to write" width="30%" />
 
@@ -25,6 +24,8 @@
 ![](https://img.shields.io/badge/Fusion%20360-ff6a04?style=for-the-badge&logo=autodesk&link=https%3A%2F%2Fwww.autodesk.com%2Fproducts%2Ffusion-360%2F)
 ![](https://img.shields.io/badge/Zed-7b7b7b?style=for-the-badge&logo=zedindustries&link=https%3A%2F%2Fzed.dev%2F)
 ![](https://img.shields.io/badge/Termius-0a1325?style=for-the-badge&logo=termius&link=https%3A%2F%2Ftermius.com%2Findex.html)
+![](https://img.shields.io/badge/Java-04536f?style=for-the-badge&logo=oracle&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
+
 
 <img src="assets/projects.gif" alt="Projects" width="30%" />
 
