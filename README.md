@@ -41,7 +41,7 @@
 ## Stats
 
 <div align="center">
-    ![saturnyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true" alt="saturnyx's Streak" />
 </div>
 
 ## Contacting me
