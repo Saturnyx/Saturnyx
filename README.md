@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/intro2.gif" alt="Animated night sky banner" width="85%" />
-  <br />
-  <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" width="70%" />
+  <img src="assets/intro2.gif" alt="Animated night sky banner" width="70%" />
+  <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" width="20%" />
   <br />
   <em>Har-shell (He/Him)</em>
   <br />
@@ -10,9 +9,8 @@
 
 <br />
 
-<div align="center">
-  <img src="assets/langs.gif" alt="Languages currently using" width="60%" />
-</div>
+<img src="assets/langs.gif" alt="Languages currently using" width="30%" />
+
 
 ![](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=3776ab&link=https%3A%2F%2Fwww.python.org%2F)
 ![](https://img.shields.io/badge/C%2B%2B-004488?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fcplusplus.com%2F)
@@ -20,9 +18,7 @@
 ![](https://img.shields.io/badge/Rust-a72145?style=for-the-badge&logo=rust&link=https%3A%2F%2Fwww.rust-lang.org%2F)
 ![](https://img.shields.io/badge/Java-04536f?style=for-the-badge&logo=oracle&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 
-<div align="center">
-  <img src="assets/langs_old.gif" alt="Languages used to write" width="60%" />
-</div>
+<img src="assets/langs_old.gif" alt="Languages used to write" width="30%" />
 
 ![](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&link=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2Fstable%2F)
 ![](https://img.shields.io/badge/git-2a2a2a?style=for-the-badge&logo=git&link=https%3A%2F%2Fgit-scm.com%2F)
@@ -38,9 +34,8 @@
 - Vex Robotics
 - Creating random stuff (Websites, Programmes, etc.)
 
-<div align="center">
-  <img src="assets/projects.gif" alt="Projects" width="50%" />
-</div>
+<img src="assets/projects.gif" alt="Projects" width="30%" />
+
 
 - [Curator](https://github.com/Saturnyx/curator)
 - [KeyItems](https://modrinth.com/mod/keyitems)
@@ -52,7 +47,7 @@
 If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
 
 <div align="center">
-  <img src="assets/footer.png" alt="Footer" width="80%" />
+  <img src="assets/footer.png" alt="Footer" />
 </div>
 
 <!---
