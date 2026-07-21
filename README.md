@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/intro2.gif" alt="Animated night sky banner" width="70%" />
+  <img src="assets/intro2.gif" alt="Animated night sky banner" width="60%" />
   <br/>
   <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" width="20%" />
   <br />
