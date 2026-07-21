@@ -3,9 +3,6 @@
   <br/>
   <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" width="20%" />
   <br />
-  <em>Har-shell (He/Him)</em>
-  <br />
-  🕗 GMT+8
 </div>
 
 <br />
