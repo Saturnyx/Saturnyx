@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/intro2.gif" alt="Animated night sky banner" width="100%" />
+  <img src="assets/intro2.gif" alt="Animated night sky banner" width="85%" />
   <br />
-  <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" />
+  <img src="assets/subtitle.png" alt="Hello! I'm Saturnyx" width="70%" />
   <br />
   <em>Har-shell (He/Him)</em>
   <br />
@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="assets/langs.gif" alt="Languages currently using" />
+  <img src="assets/langs.gif" alt="Languages currently using" width="60%" />
 </div>
 
 ![](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=3776ab&link=https%3A%2F%2Fwww.python.org%2F)
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Java-04536f?style=for-the-badge&logo=oracle&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 
 <div align="center">
-  <img src="assets/langs_old.gif" alt="Languages used to write" />
+  <img src="assets/langs_old.gif" alt="Languages used to write" width="60%" />
 </div>
 
 ![](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&link=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2Fstable%2F)
@@ -32,10 +32,6 @@
 ![](https://img.shields.io/badge/Zed-7b7b7b?style=for-the-badge&logo=zedindustries&link=https%3A%2F%2Fzed.dev%2F)
 ![](https://img.shields.io/badge/Termius-0a1325?style=for-the-badge&logo=termius&link=https%3A%2F%2Ftermius.com%2Findex.html)
 
-**Still learning**
-
-![](https://img.shields.io/badge/Javascript-115193?style=for-the-badge&logo=javascript&link=https%3A%2F%2Fecma-international.org%2Fpublications-and-standards%2Fstandards%2Fecma-262%2F)
-
 ## Passion
 
 <!-- Vex Robotics (Team 8059Z as of 2026) -->
@@ -43,22 +39,20 @@
 - Creating random stuff (Websites, Programmes, etc.)
 
 <div align="center">
-  <img src="assets/projects.gif" alt="Projects" />
+  <img src="assets/projects.gif" alt="Projects" width="50%" />
 </div>
 
 - [Curator](https://github.com/Saturnyx/curator)
 - [KeyItems](https://modrinth.com/mod/keyitems)
 
 ## Stats
-![saturnyx's Stats](https://github-readme-stats.vercel.app/api?username=saturnyx&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![saturnyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true)
-![saturnyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saturnyx&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ## Contacting me
 If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
 
 <div align="center">
-  <img src="assets/footer.png" alt="Footer" width="100%" />
+  <img src="assets/footer.png" alt="Footer" width="80%" />
 </div>
 
 <!---
