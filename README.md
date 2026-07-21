@@ -26,17 +26,17 @@
 ![](https://img.shields.io/badge/Zed-7b7b7b?style=for-the-badge&logo=zedindustries&link=https%3A%2F%2Fzed.dev%2F)
 ![](https://img.shields.io/badge/Termius-0a1325?style=for-the-badge&logo=termius&link=https%3A%2F%2Ftermius.com%2Findex.html)
 
-## Passion
-
-<!-- Vex Robotics (Team 8059Z as of 2026) -->
-- Vex Robotics
-- Creating random stuff (Websites, Programmes, etc.)
-
 <img src="assets/projects.gif" alt="Projects" width="30%" />
 
 
 - [Curator](https://github.com/Saturnyx/curator)
 - [KeyItems](https://modrinth.com/mod/keyitems)
+
+## Passion
+
+<!-- Vex Robotics (Team 8059Z as of 2026) -->
+- Vex Robotics
+- Creating random stuff (Websites, Programmes, etc.)
 
 ## Stats
 
