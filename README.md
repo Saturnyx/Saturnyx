@@ -9,11 +9,10 @@
 
 <img src="assets/langs.gif" alt="Languages currently using" width="30%" />
 
-
+![](https://img.shields.io/badge/Rust-a72145?style=for-the-badge&logo=rust&link=https%3A%2F%2Fwww.rust-lang.org%2F)
 ![](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=3776ab&link=https%3A%2F%2Fwww.python.org%2F)
 ![](https://img.shields.io/badge/C%2B%2B-004488?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fcplusplus.com%2F)
 ![](https://img.shields.io/badge/HTML%2FCSS-052d56?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.spec.whatwg.org%2F)
-![](https://img.shields.io/badge/Rust-a72145?style=for-the-badge&logo=rust&link=https%3A%2F%2Fwww.rust-lang.org%2F)
 
 <img src="assets/langs_old.gif" alt="Languages used to write" width="30%" />
 
