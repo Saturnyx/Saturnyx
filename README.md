@@ -42,7 +42,10 @@
 - [KeyItems](https://modrinth.com/mod/keyitems)
 
 ## Stats
-![saturnyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true)
+
+<div align="center">
+    ![saturnyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true)
+</div>
 
 ## Contacting me
 If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
