@@ -5,48 +5,39 @@
   <br />
 </div>
 
-<br />
+# Introduction
+'Ello! I'm Harshal (a.k.a. @saturnyx), a student robotics developer. I enjoy working with others to build performant, reliable, and safe software—whether it's an SDK running on a Cortex-A9, a desktop application, or a compression algorithm aboard a satellite. Feel free to look around my profile!
 
-<img src="assets/langs.gif" alt="Languages currently using" width="30%" />
-
-![](https://img.shields.io/badge/Rust-a72145?style=for-the-badge&logo=rust&link=https%3A%2F%2Fwww.rust-lang.org%2F)
-![](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=3776ab&link=https%3A%2F%2Fwww.python.org%2F)
-![](https://img.shields.io/badge/C%2B%2B-004488?style=for-the-badge&logo=cplusplus&link=https%3A%2F%2Fcplusplus.com%2F)
-![](https://img.shields.io/badge/HTML%2FCSS-052d56?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.spec.whatwg.org%2F)
-
-<img src="assets/langs_old.gif" alt="Languages used to write" width="30%" />
-
-![](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&link=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2Fstable%2F)
-![](https://img.shields.io/badge/git-2a2a2a?style=for-the-badge&logo=git&link=https%3A%2F%2Fgit-scm.com%2F)
-![](https://img.shields.io/badge/Figma-2c2c2c?style=for-the-badge&logo=figma&link=https%3A%2F%2Fwww.figma.com%2F)
-![](https://img.shields.io/badge/Jetbrains%20IDEs-black?style=for-the-badge&logo=jetbrains&link=https%3A%2F%2Fwww.jetbrains.com%2F)
-![](https://img.shields.io/badge/Fusion%20360-ff6a04?style=for-the-badge&logo=autodesk&link=https%3A%2F%2Fwww.autodesk.com%2Fproducts%2Ffusion-360%2F)
-![](https://img.shields.io/badge/Zed-7b7b7b?style=for-the-badge&logo=zedindustries&link=https%3A%2F%2Fzed.dev%2F)
-![](https://img.shields.io/badge/Termius-0a1325?style=for-the-badge&logo=termius&link=https%3A%2F%2Ftermius.com%2Findex.html)
-![](https://img.shields.io/badge/Java-04536f?style=for-the-badge&logo=oracle&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
-
-
-<img src="assets/projects.gif" alt="Projects" width="30%" />
-
-
-- [Curator](https://github.com/Saturnyx/curator)
-- [KeyItems](https://modrinth.com/mod/keyitems)
-
-## Passion
-
+# Skill Set
+## Stuff I use a lot
+- Rust
+- C
+- Python
+- Bash & Zsh
+- Anything else related to robotics, Iot or operating systems
+## Stuff I use once in a while
+- C++ (used to write)
+- Ruby
+- Julia
+- Java
+- Pytorch and AI-related libs
+## Stuff I am still learning
+- Zig
+- Assembly
+# Current Projects
+## [Antaeus](https://github.com/saturnyx/antaeus)
+A new opinionated library based on [Vexide](https://github.com/vexide/vexide) for VEX V5 Robotics. While still in active development, much of the basic algorithms have already been implemented. Some parts of it uses custom algorithms tailored for Vex robots. This project is also available in [crates.io](https://crates.io/crates/antaeus). Check out its README [here](https://github.com/saturnyx/antaeus/blob/main/README.md).
+## [Aphrovex](https://github.com/saturnyx/aphrovex)
+A VEX v5 Sim engine based on [lewisfm](https://github.com/lewisfm)'s [Roboscope](https://github.com/vexide/roboscope) SDK backend. Still in active development and is not recommended for usage just yet. New features such as a physics engine and Lua scripting are yet to be added.
+## Diatom
+A small, simple VEX SDK wrapper. Not a kernel, not a runtime, not a framework. Just a C library that you can use anywhere. Designed to be compatible with many compiled languages such as Zig, Ada, Nim, Go (tinyGo), Swift (embedded swift) and many more. Diatom is still pretty new and has not been released to public yet.
+# Passion
 <!-- Vex Robotics (Team 8059Z as of 2026) -->
 - Vex Robotics
-- Creating random stuff (Websites, Programmes, etc.)
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saturnyx&theme=gotham&hide_border=true" alt="saturnyx's Streak" />
-</div>
-
-## Contacting me
-If you need to contact me privately, email <saturnyx@disroot.org>. Please rememeber that it will take a few hours to days for me to respond, depending on my availability.
-
+- Writing Rust
+- Pixel Art
+# Contacting me
+If you need to contact me privately, email <saturnyx@disroot.org>. Please remember that it will take a few hours to days for me to respond, depending on my availability.
 <div align="center">
   <img src="assets/footer.png" alt="Footer" />
 </div>
