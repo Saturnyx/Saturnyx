@@ -8,12 +8,17 @@
 # Introduction
 'Ello! I'm Harshal (a.k.a. @saturnyx), a student robotics developer. I enjoy working with others to build performant, reliable, and safe software—whether it's an SDK running on a Cortex-A9, a desktop application, or a compression algorithm aboard a satellite. Feel free to look around my profile!
 
+<div align="center">
+  <img src="https://codeberg.org/saturnyx/art/raw/branch/main/collections/first_night/export/beyond.png" alt="My art" />
+</div>
+
 # Skill Set
 ## Stuff I use a lot
 - Rust
 - C
 - Python
-- Bash & Zsh
+- Bash & Zsh (Shell)
+- Elvish (Shell and Scripting)
 - Anything else related to robotics, Iot or operating systems
 ## Stuff I use once in a while
 - C++ (used to write)
@@ -24,6 +29,8 @@
 ## Stuff I am still learning
 - Zig
 - Assembly
+- Bash & Zsh (Scripting)
+
 # Current Projects
 ## [Antaeus](https://github.com/saturnyx/antaeus)
 A new opinionated library based on [Vexide](https://github.com/vexide/vexide) for VEX V5 Robotics. While still in active development, much of the basic algorithms have already been implemented. Some parts of it uses custom algorithms tailored for Vex robots. This project is also available in [crates.io](https://crates.io/crates/antaeus). Check out its README [here](https://github.com/saturnyx/antaeus/blob/main/README.md).
@@ -39,7 +46,7 @@ A small, simple VEX SDK wrapper. Not a kernel, not a runtime, not a framework. J
 # Contacting me
 If you need to contact me privately, email <saturnyx@disroot.org>. Please remember that it will take a few hours to days for me to respond, depending on my availability.
 <div align="center">
-  <img src="assets/footer.png" alt="Footer" />
+  <img src="https://codeberg.org/saturnyx/art/raw/branch/main/collections/first_night/export/moon.png" alt="Footer" />
 </div>
 
 <!---
