@@ -12,6 +12,9 @@
   <img src="https://codeberg.org/saturnyx/art/raw/branch/main/collections/first_night/export/beyond.png" alt="My art" />
 </div>
 
+# Codeberg Profile
+I have been pushing my smaller projects to Codeberg recently. I now segregate mini-projects, dots and configs into my Codeberg profile. If you are here to see my larger more ambitious projects, my [Github Profile](https://github.com/saturnyx) is probably the place to go. You can continue to stay here if you wanna see my quirky mini-projects, but remember, they will most likely be forgitten or discontinued.
+
 # Skill Set
 ## Stuff I use a lot
 - Rust
